@@ -1,2 +1,2 @@
-# Entregas-de-POO
-Actividades/tareas de la materia de Programación Orientada a Objetos.
+# Entregas-de-EDD
+Actividades/tareas de la materia de Estructuras de datos con Muñoz
